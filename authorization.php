@@ -9,7 +9,7 @@ include 'modules/head.php';
 
     <?php include 'modules/header.php'; ?>
     <?php include 'modules/baner.php'; ?>
-
+ 
 
 
     <div class="base">
